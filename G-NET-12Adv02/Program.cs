@@ -137,7 +137,7 @@ namespace G_NET_12Adv02
             */
             #endregion
 
-            #region Low_Stock
+            #region Low_Stock 
             /*
             Console.WriteLine("--- Low-Stock Alert ---");
 
