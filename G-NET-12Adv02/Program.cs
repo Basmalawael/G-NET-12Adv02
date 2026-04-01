@@ -111,7 +111,7 @@ namespace G_NET_12Adv02
             #endregion
 
 
-            #region Summary
+            #region Summary 
             /*
             Console.WriteLine("--- Summary List ---");
             var summaries = TransformPro.TransformProducts(catalog.Take(7).ToList(), p => $"{p.Name} (${p.Price})");
