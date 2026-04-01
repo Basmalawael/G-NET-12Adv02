@@ -8,7 +8,7 @@ namespace G_NET_12Adv02
         {
             #region Catalog
             /*
-            List<Product> catalog = new() 
+            List<Product> catalog = new()  
             {
                 new Product { Id = 1, Name = "Laptop", Category = "Electronics", Price = 1200, Stock = 10 },
                 new Product { Id = 2, Name = "Phone", Category = "Electronics", Price = 800, Stock = 25 },
