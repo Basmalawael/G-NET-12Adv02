@@ -32,7 +32,7 @@ namespace G_NET_12Adv02
 
 
             #region Task 01 : Smart Product Search
-            /*
+            /* 
 
             Console.WriteLine("--- Electronics ---");
 
