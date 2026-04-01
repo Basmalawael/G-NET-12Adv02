@@ -92,7 +92,7 @@ namespace G_NET_12Adv02
 
             #region Task 03 : Custom Report Generator
 
-            #region Short & Detailed 
+            #region Short & Detailed  
             /*
             Console.WriteLine("--- Short Report ---");
 
